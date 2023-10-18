@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "5.mp4",
+  "url": "",
+  "class": "Science Fiction Film",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 13560,
+  "fps": 24
+ },
+ "caption": "A red truck slowly rolled into an open space and transformed into a towering robot. It gazed at a beam of light in the sky. Meanwhile, a man sat inside a car in an underground garage. His actions were noticed by a security guard. He tried to escape, but the car suddenly sprang to life and sped out of the underground garage, terrifying the man. The car raced through the streets, causing the man considerable distress. It collided with a police car. Finally, in a warehouse, it transformed into a towering robot. Several other robotic beings arrived on the scene, with the red truck turning into one of them, and they collectively lifted the man off the ground.",
+ "global": [
+  {
+   "question": "What's the time in the video?",
+   "answer": "Night."
+  },
+  {
+   "question": "Are there any robots?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Are there more then three different backgrounds appearing in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Are there police cars?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Where is the main character initially at?",
+   "answer": "In a car."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 720,
+   "question": "What is the color of the car?",
+   "answer": "Yellow."
+  },
+  {
+   "time": 1440,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 2160,
+   "question": "Where is the scene?",
+   "answer": "Parking lot."
+  },
+  {
+   "time": 2880,
+   "question": "Where is the scene?",
+   "answer": "Street."
+  },
+  {
+   "time": 3576,
+   "question": "What are the people doing?",
+   "answer": "Drivin."
+  },
+  {
+   "time": 4296,
+   "question": "What is happening?",
+   "answer": "Car racing."
+  },
+  {
+   "time": 5040,
+   "question": "Is it day or night?",
+   "answer": "night."
+  },
+  {
+   "time": 5760,
+   "question": "What is happening?",
+   "answer": "Car crash."
+  },
+  {
+   "time": 6480,
+   "question": "What is the clothes color of the person?",
+   "answer": "Green."
+  },
+  {
+   "time": 7152,
+   "question": "Where is the scene?",
+   "answer": "On a bridge."
+  },
+  {
+   "time": 7920,
+   "question": "What is this object?",
+   "answer": "A robot."
+  },
+  {
+   "time": 8640,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 9360,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 10080,
+   "question": "Are there any vehicles?",
+   "answer": "Yes."
+  }
+ ]
+}

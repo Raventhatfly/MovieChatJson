@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "214.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "No."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day and night."
+  },
+  {
+   "question": "How many man and woman appears in the video?",
+   "answer": "No human appear in the video."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does sea appear in the video?",
+   "answer": "No."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Where is the scene?",
+   "answer": "In the desert."
+  },
+  {
+   "time": 750,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 1500,
+   "question": "Are there any plants?",
+   "answer": "Yes."
+  },
+  {
+   "time": 2250,
+   "question": "What is this animal?",
+   "answer": "A bird."
+  },
+  {
+   "time": 3000,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 3750,
+   "question": "Where is the scene?",
+   "answer": "In the desert."
+  },
+  {
+   "time": 4500,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 5250,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 6000,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 6750,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Outdoor."
+  },
+  {
+   "time": 7500,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 8250,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 9000,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 9575,
+   "question": "How is the weather?",
+   "answer": "It is rainy."
+  },
+  {
+   "time": 10425,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  }
+ ]
+}

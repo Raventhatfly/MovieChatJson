@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "194.mp4",
+  "url": "",
+  "class": "School Film",
+  "w": 848,
+  "h": 464,
+  "num_frame": 11520,
+  "fps": 24
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Does this video more probably happen in Europe or Asia?",
+   "answer": "Europe."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 768,
+   "question": "What is the object?",
+   "answer": "Newspaper."
+  },
+  {
+   "time": 1512,
+   "question": "What is happening?",
+   "answer": "A boy with glasses is lying on the ground."
+  },
+  {
+   "time": 2232,
+   "question": "Where is the scene?",
+   "answer": "In the classroom."
+  },
+  {
+   "time": 2904,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 3648,
+   "question": "Where is the scene?",
+   "answer": "In the teacher's office."
+  },
+  {
+   "time": 4320,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 5136,
+   "question": "Where is the scene?",
+   "answer": "On the street."
+  },
+  {
+   "time": 5760,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 6480,
+   "question": "How many people  appears?",
+   "answer": "Two."
+  },
+  {
+   "time": 7200,
+   "question": "Where is the scene?",
+   "answer": "In the teacher's  office."
+  },
+  {
+   "time": 7920,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 8640,
+   "question": "Are there any plants?",
+   "answer": "Yes."
+  },
+  {
+   "time": 9504,
+   "question": "What is the dress color of the woman?",
+   "answer": "Yellow."
+  },
+  {
+   "time": 10392,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  }
+ ]
+}

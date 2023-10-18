@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "239.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Is this clip relating to our universe?",
+   "answer": "No."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Where is the scene?",
+   "answer": "On the surface of the sea."
+  },
+  {
+   "time": 750,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 1500,
+   "question": "Is the person a man or a woman?",
+   "answer": "Man."
+  },
+  {
+   "time": 2250,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 3000,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Outdoor."
+  },
+  {
+   "time": 3750,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 4500,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 5250,
+   "question": "Are there any vehicles?",
+   "answer": "Yes. A boat."
+  },
+  {
+   "time": 6000,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Outdoor."
+  },
+  {
+   "time": 6750,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 7500,
+   "question": "How is the weather?",
+   "answer": "It is sunny."
+  },
+  {
+   "time": 8250,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 9000,
+   "question": "Where is the scene?",
+   "answer": "At the cockpit of the boat."
+  },
+  {
+   "time": 9750,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 10500,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  }
+ ]
+}

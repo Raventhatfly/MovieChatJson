@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "8.mp4",
+  "url": "",
+  "class": "Animation Film",
+  "w": 854,
+  "h": 480,
+  "num_frame": 15210,
+  "fps": 30
+ },
+ "caption": "A character with blue skin lay in bed and picked up a phone call. The character then walked into the living room, where their parents were busy preparing breakfast. The family later sat down at the table to have breakfast together. The scene quickly transitioned to an urban setting, where an elderly person was piloting a boat, narrowly avoiding a collision with the blue-skinned character. The blue-skinned character took out their phone and had a conversation with friends before finally meeting up with them.",
+ "global": [
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Are there more then three different backgrounds appearing in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Are the characters human?",
+   "answer": "Yes, but they are cartoon human characters."
+  },
+  {
+   "question": "When does the things in the video happens, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Does more than 5 people appered in the video?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "What is this object?",
+   "answer": "Cell phone."
+  },
+  {
+   "time": 900,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 1800,
+   "question": "What is the biggest letter in size?",
+   "answer": "A."
+  },
+  {
+   "time": 2700,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 3600,
+   "question": "Where is the scene?",
+   "answer": "At home."
+  },
+  {
+   "time": 4500,
+   "question": "Where is the scene?",
+   "answer": "Dinning table."
+  },
+  {
+   "time": 5400,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 6300,
+   "question": "Is the person a man or a woman?",
+   "answer": "A cartoon woman."
+  },
+  {
+   "time": 7200,
+   "question": "How many people  appeared?",
+   "answer": "Three."
+  },
+  {
+   "time": 8100,
+   "question": "Are there any vehicles?",
+   "answer": "Yes. A ship."
+  },
+  {
+   "time": 9900,
+   "question": "Is it day or night?",
+   "answer": "Three."
+  },
+  {
+   "time": 10800,
+   "question": "How many people are there on the screen?",
+   "answer": "Three."
+  },
+  {
+   "time": 12630,
+   "question": "Where is the scene?",
+   "answer": "On the mountain."
+  },
+  {
+   "time": 13470,
+   "question": "Are there any plants?",
+   "answer": "Yes."
+  },
+  {
+   "time": 14370,
+   "question": "What is the clothes color of the person?",
+   "answer": "Green."
+  }
+ ]
+}

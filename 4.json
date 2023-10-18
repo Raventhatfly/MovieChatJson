@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "4.mp4",
+  "url": "",
+  "class": "Animation Film",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 14472,
+  "fps": 24
+ },
+ "caption": "A man dressed in swimwear dives into a massive pool. Next, a suited man appears, followed by a laboratory environment. The man who previously jumped into the pool is now swimming inside a high-tech-looking pipeline, seemingly engaged in a mission. Then, an airplane appears, and a suited man parachutes from it, grabbing onto the plane's side compartment. Eventually, the man successfully enters the compartment. The final scene depicts a motorcycle chase, with a man on a motorcycle tumbling and kicking up a cloud of dust.",
+ "global": [
+  {
+   "question": "Does more than 5 people appeared in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Are there more then three different backgrounds appearing in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Where does it happen in the video?",
+   "answer": "Underwater, airplane and road."
+  },
+  {
+   "question": "Are there motorbikes?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "What is the person doing?",
+   "answer": "Jumping into the water."
+  },
+  {
+   "time": 720,
+   "question": "What is this object?",
+   "answer": "Cellphone."
+  },
+  {
+   "time": 1440,
+   "question": "What is this object?",
+   "answer": "Computer."
+  },
+  {
+   "time": 2160,
+   "question": "Where is the scene?",
+   "answer": "Under water."
+  },
+  {
+   "time": 2880,
+   "question": "What is the person doing?",
+   "answer": "Pulling something."
+  },
+  {
+   "time": 3600,
+   "question": "What is this object?",
+   "answer": "Computer."
+  },
+  {
+   "time": 4320,
+   "question": "What is the clothes color of the person?",
+   "answer": "Black."
+  },
+  {
+   "time": 4968,
+   "question": "Is the person a man or a woman?",
+   "answer": "Woman."
+  },
+  {
+   "time": 5880,
+   "question": "What is the person doing?",
+   "answer": "Insertring a yellow object."
+  },
+  {
+   "time": 6480,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 7200,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 7920,
+   "question": "What body part is this?",
+   "answer": "Arm."
+  },
+  {
+   "time": 8736,
+   "question": "Are there any plants?",
+   "answer": "Yes."
+  },
+  {
+   "time": 9456,
+   "question": "Are there any vehicles?",
+   "answer": "Yes.Airplane."
+  },
+  {
+   "time": 10176,
+   "question": "Are there any vehicles?",
+   "answer": "Yes.Airplane."
+  }
+ ]
+}

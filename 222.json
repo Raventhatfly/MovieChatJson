@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "222.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "No."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does sea appear in the video?",
+   "answer": "No."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Where is the scene?",
+   "answer": "By the road."
+  },
+  {
+   "time": 750,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 1500,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 2250,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Outdoor."
+  },
+  {
+   "time": 3000,
+   "question": "Is it bright or dark?",
+   "answer": "Dark."
+  },
+  {
+   "time": 3750,
+   "question": "Where is the scene?",
+   "answer": "In the desert."
+  },
+  {
+   "time": 4500,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 5250,
+   "question": "How many people  appears?",
+   "answer": "Only one person."
+  },
+  {
+   "time": 6000,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 6750,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 7500,
+   "question": "Is the person a man or a woman?",
+   "answer": "Man."
+  },
+  {
+   "time": 8250,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 9000,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 9750,
+   "question": "What is the clothes color of the person?",
+   "answer": "Green."
+  },
+  {
+   "time": 10500,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  }
+ ]
+}

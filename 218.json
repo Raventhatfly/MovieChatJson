@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "218.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 24000,
+  "fps": 50
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does sea appear in the video?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "What is this animal?",
+   "answer": "A whale."
+  },
+  {
+   "time": 1500,
+   "question": "Where is the scene?",
+   "answer": "Above the water of the sea."
+  },
+  {
+   "time": 3000,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 4500,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 6000,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 7500,
+   "question": "Is the person a man or a woman?",
+   "answer": "Woman."
+  },
+  {
+   "time": 9000,
+   "question": "Are there any vehicles?",
+   "answer": "Yes."
+  },
+  {
+   "time": 10500,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 12000,
+   "question": "What is this animal?",
+   "answer": "Whale."
+  },
+  {
+   "time": 13500,
+   "question": "Where is the scene?",
+   "answer": "Under the water."
+  },
+  {
+   "time": 15000,
+   "question": "How many whales are there?",
+   "answer": "Two."
+  },
+  {
+   "time": 16500,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 18000,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 19500,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 21000,
+   "question": "Are there any people?",
+   "answer": "No."
+  }
+ ]
+}

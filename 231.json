@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "231.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day and night."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Is this clip relating to our universe?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "No."
+  },
+  {
+   "question": "Do stars appear in the video?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 750,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 1500,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 2250,
+   "question": "How is the weather?",
+   "answer": "It is sunny."
+  },
+  {
+   "time": 3000,
+   "question": "Is the person a man or a woman?",
+   "answer": "Man."
+  },
+  {
+   "time": 3750,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 4500,
+   "question": "Where is the scene?",
+   "answer": "In the outer space."
+  },
+  {
+   "time": 5250,
+   "question": "Where is the scene?",
+   "answer": "In the universe."
+  },
+  {
+   "time": 6000,
+   "question": "How many people  appears?",
+   "answer": "No person appears."
+  },
+  {
+   "time": 6750,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 7500,
+   "question": "Where is the scene?",
+   "answer": "At the surface of a gigantic star."
+  },
+  {
+   "time": 8250,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 9225,
+   "question": "What is the object?",
+   "answer": "A galaxy."
+  },
+  {
+   "time": 10575,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 11325,
+   "question": "Are there any people?",
+   "answer": "Yes"
+  }
+ ]
+}

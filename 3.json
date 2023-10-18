@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "3.mp4",
+  "url": "",
+  "class": "Family Drama",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 11875,
+  "fps": 25
+ },
+ "caption": "In this video, numerous young women are featured, and the storyline seems to unfold in a school or dormitory setting. Specifically, in one scene, three girls are situated in a bedroom, all dressed in pink attire. Notably, one of these girls is provocatively dressed. As the video progresses, these same girls make appearances in diverse settings, ranging from the school's administrative office, cafeteria, gymnasium, to a bustling shopping mall. Eventually, they are depicted attending a festive Christmas party, donning Santa Claus hats and clothing, bringing a holiday spirit to the scene.The video appears to revolve around the lives and adventures of these young women as they navigate various social settings, showcasing their fashion choices and perhaps conveying a broader narrative about youth culture and celebration.",
+ "global": [
+  {
+   "question": "What's the time in the video?",
+   "answer": "During day time."
+  },
+  {
+   "question": "Where does it happen in the video?",
+   "answer": "Mostly in the building, but some scenes are outside."
+  },
+  {
+   "question": "Does more than 5 people appeared in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Does man appear more frequent than women?",
+   "answer": "No."
+  },
+  {
+   "question": "When does the things in the video happens, ancient age, modern age or future?",
+   "answer": "Modern age."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is the person a man or a woman?",
+   "answer": "Woman."
+  },
+  {
+   "time": 750,
+   "question": "How many people  appeared?",
+   "answer": "Three."
+  },
+  {
+   "time": 1500,
+   "question": "Does any of the girls have black hair?",
+   "answer": "No."
+  },
+  {
+   "time": 2250,
+   "question": "Where is the scene?",
+   "answer": "Dinning room."
+  },
+  {
+   "time": 3000,
+   "question": "What is the clothes color of the woman?",
+   "answer": "White."
+  },
+  {
+   "time": 3200,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 3750,
+   "question": "What is the person doing?",
+   "answer": "Talking to herself."
+  },
+  {
+   "time": 4500,
+   "question": "What is the clothes color of the woman?",
+   "answer": "White."
+  },
+  {
+   "time": 5250,
+   "question": "Where is the scene?",
+   "answer": "In an office."
+  },
+  {
+   "time": 6000,
+   "question": "How many people  appeared?",
+   "answer": "Three."
+  },
+  {
+   "time": 6750,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 7500,
+   "question": "What is the clothes color of the woman?",
+   "answer": "Pink."
+  },
+  {
+   "time": 8250,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 8950,
+   "question": "What are the people doing?",
+   "answer": "Dressing up."
+  },
+  {
+   "time": 9750,
+   "question": "Are there any plants?",
+   "answer": "No."
+  }
+ ]
+}

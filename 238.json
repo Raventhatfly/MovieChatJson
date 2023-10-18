@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "238.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Is this clip relating to our universe?",
+   "answer": "No."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 750,
+   "question": "Where is the scene?",
+   "answer": "On a ship."
+  },
+  {
+   "time": 1500,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 2250,
+   "question": "How is the weather?",
+   "answer": "It is sunny."
+  },
+  {
+   "time": 3000,
+   "question": "Are there any people?",
+   "answer": "No."
+  },
+  {
+   "time": 3750,
+   "question": "What is the background color?",
+   "answer": "Blue."
+  },
+  {
+   "time": 4500,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 5250,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 6000,
+   "question": "Where is the scene?",
+   "answer": "In the sea."
+  },
+  {
+   "time": 6750,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 7500,
+   "question": "What is the person doing?",
+   "answer": "Using telescope to observe."
+  },
+  {
+   "time": 8250,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 9000,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 9750,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 10500,
+   "question": "How is the weather?",
+   "answer": "It is sunny."
+  }
+ ]
+}

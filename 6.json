@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "6.mp4",
+  "url": "",
+  "class": "War Film",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 13272,
+  "fps": 24
+ },
+ "caption": "A fighter jet soars through the sky, controlled by the pilot who maneuvers the joystick while the engine roars with flames propelling the aircraft forward. The pilot performs a series of daring aerobatic maneuvers, showcasing precision skills. In a training scenario, the pilot locks onto a target aircraft while their teammates observe closely.The climax arrives in an aerial combat scene over the ocean. Two aircraft engage in a thrilling pursuit. The trailing plane fires missiles and shoots bullets at the leading one. The pilots in the targeted aircraft communicate nervously, teetering on the brink. In the nick of time, the pursuing aircraft is taken down by a friendly plane, averting disaster.",
+ "global": [
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day."
+  },
+  {
+   "question": "Where does it happen in the video?",
+   "answer": "On a fighter jet."
+  },
+  {
+   "question": "When does the things in the video happens, ancient age, modern age or future?",
+   "answer": "Modern."
+  },
+  {
+   "question": "Are there more then three different backgrounds appearing in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Does more than 5 people appeared in the video?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 720,
+   "question": "Where is the scene?",
+   "answer": "On a fighter jet."
+  },
+  {
+   "time": 1440,
+   "question": "What is this object?",
+   "answer": "A fighter jet."
+  },
+  {
+   "time": 2160,
+   "question": "What is the clothes color of the person?",
+   "answer": "Brown."
+  },
+  {
+   "time": 2880,
+   "question": "Is the jet upside down?",
+   "answer": "Yes."
+  },
+  {
+   "time": 3576,
+   "question": "What is happening?",
+   "answer": "Aiming at something."
+  },
+  {
+   "time": 4296,
+   "question": "What is the person doing?",
+   "answer": "Flying the jet and talking."
+  },
+  {
+   "time": 5016,
+   "question": "How many jets are there?",
+   "answer": "Two."
+  },
+  {
+   "time": 5736,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 6456,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 7176,
+   "question": "How many people are there?",
+   "answer": "Four."
+  },
+  {
+   "time": 7896,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 8616,
+   "question": "Where is the scene?",
+   "answer": "On a jet."
+  },
+  {
+   "time": 9360,
+   "question": "Is the person wearing a helmet?",
+   "answer": "Yes."
+  },
+  {
+   "time": 10080,
+   "question": "What time is it?",
+   "answer": "At dusk."
+  }
+ ]
+}

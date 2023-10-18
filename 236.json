@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "236.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day and night."
+  },
+  {
+   "question": "Is this clip relating to our universe?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Do stars appear in the video?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "What is the person doing?",
+   "answer": "Making a phone call."
+  },
+  {
+   "time": 750,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 1500,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 2250,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 3000,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 3750,
+   "question": "Does the man have long hair or short hair?",
+   "answer": "Short hair."
+  },
+  {
+   "time": 4500,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Indoor."
+  },
+  {
+   "time": 5250,
+   "question": "What is the object?",
+   "answer": "A mosiac picture."
+  },
+  {
+   "time": 5950,
+   "question": "What is the object?",
+   "answer": "A diagram."
+  },
+  {
+   "time": 6725,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 7500,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 8250,
+   "question": "Is the person a man or a woman?",
+   "answer": "Man."
+  },
+  {
+   "time": 9000,
+   "question": "What is the object?",
+   "answer": "It is an aircraft."
+  },
+  {
+   "time": 10500,
+   "question": "What is the object?",
+   "answer": "It is a galaxy."
+  },
+  {
+   "time": 11250,
+   "question": "What is the background color?",
+   "answer": "Black."
+  }
+ ]
+}

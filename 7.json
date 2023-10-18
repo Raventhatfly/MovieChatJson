@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "7.mp4",
+  "url": "",
+  "class": "Science Fiction Film",
+  "w": 1280,
+  "h": 536,
+  "num_frame": 10440,
+  "fps": 24
+ },
+ "caption": "A translucent creature appeared above the wilderness, drawing the attention of numerous animals that engaged in battle with it. Indigenous people noticed this monster and attempted to attack it with bows and arrows, but they were utterly outmatched. Some were killed, others wounded, with one tribesperson even losing an arm. Witnessing the casualties, a woman tried to flee the scene but was pursued relentlessly.At that moment, a group of armed individuals arrived, only to fall victim to the creature as well. Finally, a brave tribesperson engaged in a life-and-death battle with the monster. The fight raged on from day into night, but in the end, the creature was defeated.",
+ "global": [
+  {
+   "question": "When does the things in the video happens, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Where does it happen in the video?",
+   "answer": "In a forrest."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Both day and night."
+  },
+  {
+   "question": "Are there more then three different backgrounds appearing in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Are there any creatures besides human?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Where is the scene?",
+   "answer": "In the mountains."
+  },
+  {
+   "time": 720,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 1440,
+   "question": "Where is the scene?",
+   "answer": "In the river."
+  },
+  {
+   "time": 2160,
+   "question": "What is this red object?",
+   "answer": "A monster."
+  },
+  {
+   "time": 2880,
+   "question": "What is happening?",
+   "answer": "A fight."
+  },
+  {
+   "time": 3600,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 4200,
+   "question": "What are they holding?",
+   "answer": "Guns."
+  },
+  {
+   "time": 5040,
+   "question": "What is the background color?",
+   "answer": "Black."
+  },
+  {
+   "time": 5760,
+   "question": "Where is the scene?",
+   "answer": "In a forrest."
+  },
+  {
+   "time": 6408,
+   "question": "Is this person alive?",
+   "answer": "No."
+  },
+  {
+   "time": 7152,
+   "question": "Is this a human?",
+   "answer": "No."
+  },
+  {
+   "time": 7896,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 8616,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 9336,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 10152,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  }
+ ]
+}

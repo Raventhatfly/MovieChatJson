@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "9.mp4",
+  "url": "",
+  "class": "Action Film",
+  "w": 854,
+  "h": 480,
+  "num_frame": 14130,
+  "fps": 30
+ },
+ "caption": "A man, being pursued, leaped over a railing, closely followed by his pursuers. He dashed into a construction site, where one of his pursuers fired a shot at him. The fugitive quickly ascended a red tower, but to his surprise, the pursuer found a shortcut via a crane's boom. They both climbed onto the tower crane, engaging in a fierce brawl high above.The fugitive jumped to another tower crane and then down to the ground, with the relentless pursuer hot on his heels. The fugitive reached a small town and pulled out a handgun inside a building, but he was still overpowered by the pursuer. Downstairs, a group of soldiers fired at the two on the upper floor. The pursuer returned fire, seemingly on the brink of surrender. However, he suddenly drew his weapon, killing the soldiers downstairs and triggering an explosion that consumed the building.",
+ "global": [
+  {
+   "question": "What's the time in the video?",
+   "answer": "Day."
+  },
+  {
+   "question": "What is happening?",
+   "answer": "Running, chasing, fighting."
+  },
+  {
+   "question": "Are there more then three different backgrounds appearing in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Does more than 5 people appered in the video?",
+   "answer": "Yes."
+  },
+  {
+   "question": "Are there any shooting scenes?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 30,
+   "question": "What is the person doing?",
+   "answer": "Climbing a fence."
+  },
+  {
+   "time": 900,
+   "question": "What is the person doing?",
+   "answer": "Shooting."
+  },
+  {
+   "time": 1800,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 2700,
+   "question": "Are there any plants?",
+   "answer": "Yes. There are trees."
+  },
+  {
+   "time": 3600,
+   "question": "Where is the scene?",
+   "answer": "On a very tall palce."
+  },
+  {
+   "time": 4440,
+   "question": "What is the clothes color of the person?",
+   "answer": "Yellow Brown."
+  },
+  {
+   "time": 5370,
+   "question": "What are the people doing?",
+   "answer": "Fighting."
+  },
+  {
+   "time": 7140,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 7950,
+   "question": "What is the person doing?",
+   "answer": "Jumping."
+  },
+  {
+   "time": 8910,
+   "question": "Where is the scene?",
+   "answer": "On the road."
+  },
+  {
+   "time": 9900,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 10950,
+   "question": "What are these people?",
+   "answer": "Soldiers."
+  },
+  {
+   "time": 11700,
+   "question": "Are there any animals?",
+   "answer": "No."
+  },
+  {
+   "time": 12480,
+   "question": "What are the people doing?",
+   "answer": "Preparing to shoot."
+  },
+  {
+   "time": 13440,
+   "question": "What is happening?",
+   "answer": "Explosion and fire."
+  }
+ ]
+}

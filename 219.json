@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "219.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "No."
+  },
+  {
+   "question": "When does it happen in the video, ancient age, modern age or future?",
+   "answer": "Modern age."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day and night."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does sea appear in the video?",
+   "answer": "Yes."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 0,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Outdoor."
+  },
+  {
+   "time": 750,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 1500,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 2250,
+   "question": "Are there any people?",
+   "answer": "Yes."
+  },
+  {
+   "time": 3000,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  },
+  {
+   "time": 3900,
+   "question": "What is the object?",
+   "answer": "The moon."
+  },
+  {
+   "time": 4650,
+   "question": "Where is the scene?",
+   "answer": "In the universe."
+  },
+  {
+   "time": 5400,
+   "question": "Where is the scene?",
+   "answer": "In a nebula."
+  },
+  {
+   "time": 6025,
+   "question": "Where is the scene?",
+   "answer": "On the beach."
+  },
+  {
+   "time": 6775,
+   "question": "Where is the scene?",
+   "answer": "In the car."
+  },
+  {
+   "time": 7525,
+   "question": "Are there any plants?",
+   "answer": "Yes."
+  },
+  {
+   "time": 8475,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 9000,
+   "question": "Is it day or night?",
+   "answer": "Night."
+  },
+  {
+   "time": 9750,
+   "question": "What is this animal?",
+   "answer": "Sea turtle."
+  },
+  {
+   "time": 10500,
+   "question": "Are there any vehicles?",
+   "answer": "No."
+  }
+ ]
+}

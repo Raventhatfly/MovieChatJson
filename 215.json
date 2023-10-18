@@ -1,0 +1,111 @@
+{
+ "info": {
+  "video_path": "215.mp4",
+  "url": "",
+  "class": "Documentary",
+  "w": 1280,
+  "h": 720,
+  "num_frame": 12000,
+  "fps": 25
+ },
+ "caption": "",
+ "global": [
+  {
+   "question": "Do more than 5 people appear in the video?",
+   "answer": "No."
+  },
+  {
+   "question": "Does it happen during day or night?",
+   "answer": "Day and night."
+  },
+  {
+   "question": "How many man and woman appears in the video?",
+   "answer": "No human appear in the video."
+  },
+  {
+   "question": "Is this clip cartoon?",
+   "answer": "No."
+  },
+  {
+   "question": "Does sea appear in the video?",
+   "answer": "No."
+  }
+ ],
+ "breakpoint": [
+  {
+   "time": 125,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 750,
+   "question": "Where is the scene?",
+   "answer": "In the desert."
+  },
+  {
+   "time": 1500,
+   "question": "What are these animals?",
+   "answer": "They are camels."
+  },
+  {
+   "time": 2250,
+   "question": "Is it day or night?",
+   "answer": "Day."
+  },
+  {
+   "time": 3000,
+   "question": "Is it indoor or outdoor?",
+   "answer": "Outdoor."
+  },
+  {
+   "time": 3750,
+   "question": "Are there any people?",
+   "answer": "No."
+  },
+  {
+   "time": 4500,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 5250,
+   "question": "Are there any people?",
+   "answer": "No."
+  },
+  {
+   "time": 6000,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 6750,
+   "question": "How is the weather?",
+   "answer": "It is sunny."
+  },
+  {
+   "time": 7500,
+   "question": "Are there any animals?",
+   "answer": "Yes."
+  },
+  {
+   "time": 8250,
+   "question": "What is the insect doing?",
+   "answer": "It is flying."
+  },
+  {
+   "time": 9000,
+   "question": "Are there any plants?",
+   "answer": "No."
+  },
+  {
+   "time": 9750,
+   "question": "Is there a river?",
+   "answer": "Yes."
+  },
+  {
+   "time": 10500,
+   "question": "Is it day or night?",
+   "answer": "Day.."
+  }
+ ]
+}
